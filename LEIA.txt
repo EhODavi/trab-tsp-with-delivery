@@ -1,0 +1,4 @@
+TIPO 0 - gr17, gr21, gr48, fri26
+TIPO 1 - gr120
+TIPO 2 - eil51, eil76, eil101, a280, berlin52
+TIPO 3 - brazil58
